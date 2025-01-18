@@ -3,7 +3,7 @@
 > [!IMPORTANT]  
 > Remove this alert notice and supply this crucial information to help reviewers understand your submission better.
 
-* Fixes collabo-community/issue-tickets-ready-for-fixing#putTheGitHubIssueNumberHere
+* Fixes collabo-community/.github#putTheGitHubIssueNumberHere
 
 #
 
@@ -12,7 +12,7 @@
 > [!IMPORTANT]  
 > Remove this alert notice and follow the direction below to ensure and confirm that your pull request follows community guidelines. Tick the checkboxes accordingly.
 
-- [ ] My pull request adheres to the [Collabo Community pull request guidelines](https://docs.collabocommunity.com/pull-request-guidelines).
+- [ ] My pull request adheres to the [Collabo Community pull request guidelines](https://docs.collabo.community/pull-request-guidelines).
 - [ ] I have read and understood the **Pull request guideline extension** section found at the bottom of this pull request description/body.
 - [ ] I have replaced the dummy text under the subheading **Testing checklist** below with the testing checklist from the issue ticket I'm working on.
 
