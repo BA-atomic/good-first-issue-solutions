@@ -24,15 +24,10 @@ Replace this dummy text with the testing checklist from the issue this pull requ
 
 #
 
-#### How to run project
+#### Screenshot
 
 > [!IMPORTANT]  
-> Did something change in this PR about how to run the project locally? If so, remove this alert notice (along with the tip) and follow the direction below. 
-
-> [!TIP]  
-> If this PR did not change how the project is run locally, you can just remove this how to run project section totally.
-
-Replace this dummy text with new information on how to run the project (preferably using a list e.g. unordered list or ordered list).
+> Remove this alert notice and drag and drop your screenshot here. If the issue ticket did not state that you should add a screenshot, you can remove this entire **Screenshot** section.
 
 #
 
