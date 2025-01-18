@@ -1,5 +1,5 @@
-# @collabo-community/use-me-for-experiments
-Contributors are to work with this repository when working on a Collabo Community project task assignment, that involves test-running their changes for some experiment. For example, we test automated issue submissions for the Collabocate GitHubSync project here - this you will find in the issues tab of this repository.
+# @collabo-community/good-first-issue-solutions
+New contributors working on "topic: good first issue" tickets from the community project board are to submit their solutions to this repository.
 
 #
 
